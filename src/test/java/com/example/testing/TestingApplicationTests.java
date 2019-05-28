@@ -14,7 +14,7 @@ public class TestingApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-	//a test to test welcome message
+
 	@Test
 	public void testWelcomeMsg(){
 		Math m = new Math();
